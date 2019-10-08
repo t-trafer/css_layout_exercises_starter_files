@@ -10,3 +10,17 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+.short {
+  width: 285px;
+}
+
+.left {
+  float: left;
+  margin: 10px 20px 10px 0;
+}
+
+.right {
+  float: right;
+  margin: 10px 0 10px 20px;
+}
